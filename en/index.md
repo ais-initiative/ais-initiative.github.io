@@ -1,16 +1,16 @@
 ---
 title: "AIS intiative"
 ---
-[English](../index.md)
+[Français](../index.md)
 
-## Présentation
+## Presentation
 
-## Journées d'études
-[liste](workshops.md)
+## Workshops
+[list](workshops.md)
 
 ## Chaire Abeona
 
-## Personnes
+## US
 
-## Semaine intensive de cours PSL
+## PSL week
 
