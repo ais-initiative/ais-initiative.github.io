@@ -1,7 +1,7 @@
 ---
 title: "AIS intiative"
 ---
-[Français](../index.md)
+[Français](../index.md) ![fr][fr]
 
 ## Introduction
 
@@ -14,3 +14,5 @@ Here is a [list](workshops.md) of our upcoming workshops.
 
 ## PSL week
 
+
+[fr]: assets/uk.png "Britain"
