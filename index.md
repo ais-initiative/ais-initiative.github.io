@@ -1,9 +1,7 @@
 ---
 title: "Intiative AIS"
 ---
-![en][en]
-
-[English](en/index.md)
+![en][en] [English](en/index.md)
 
 ## Présentation
 
