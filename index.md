@@ -1,6 +1,7 @@
 ---
-title: "AIS intiative"
+title: "Intiative AIS"
 ---
+[English](en/index.md)
 
 ## Présentation
 
