@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "AIS initiaive"
 description: "slogan"
 header-img: "img/ens-snow.jpg"
