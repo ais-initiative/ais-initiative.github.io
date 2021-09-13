@@ -6,7 +6,7 @@ title: "Intiative AIS"
 ## Présentation
 
 ## Journées d'études
-[liste](workshops.md)
+Voici la [liste](workshops.md) des journées d'études à venir.
 
 ## Chaire Abeona
 
