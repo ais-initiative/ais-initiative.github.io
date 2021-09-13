@@ -10,7 +10,7 @@ title: "AIS intiative"
 
 ## Chaire Abeona
 
-## US
+## Us
 
 ## PSL week
 
