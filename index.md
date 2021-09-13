@@ -1,9 +1,3 @@
----
-title: "AIS initiaive"
-description: "slogan"
-header-img: "img/ens-snow.jpg"
----
-
 ## Présentation
 
 ## Journées d'études
