@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-### Présentation
+## Présentation
 
 ## Journées d'études
 [Lien] (workshops.md)
