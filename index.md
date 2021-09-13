@@ -1,7 +1,7 @@
 ---
 title: "Intiative AIS"
 ---
-![fa-crown](assets/france-flag.svg)
+![en][english]
 [English](en/index.md)
 
 ## Présentation
@@ -14,3 +14,6 @@ Voici la [liste](workshops.md) des journées d'études à venir.
 ## Personnes
 
 ## Semaine intensive de cours PSL
+
+[appartement]: assets/france-flag.svg "Britain"
+
