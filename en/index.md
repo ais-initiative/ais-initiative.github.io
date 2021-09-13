@@ -1,7 +1,7 @@
 ---
 title: "AIS intiative"
 ---
-[Français](../index.md) ![fr][fr]
+![fr][fr] [Français](../index.md) 
 
 ## Introduction
 
