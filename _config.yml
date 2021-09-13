@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Artificial intelligence and Society initiative
 languages: ["en", "fr"]
 exclude_from_localizations: ["javascript", "images", "css"]
