@@ -3,7 +3,7 @@ title: "AIS intiative"
 ---
 [Français](../index.md)
 
-## Presentation
+## Introduction
 
 ## Workshops
 [list](workshops.md)
