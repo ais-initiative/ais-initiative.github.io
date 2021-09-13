@@ -1,3 +1,7 @@
+---
+title: "AIS intiative"
+---
+
 ## Présentation
 
 ## Journées d'études
