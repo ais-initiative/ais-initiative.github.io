@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "The DHAI Seminar"
-description: "When Digital Humanities Meet Artificial Intelligence"
+title: "AIS initiaive"
+description: "slogan"
 header-img: "img/ens-snow.jpg"
 ---
 
