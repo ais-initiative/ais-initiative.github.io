@@ -16,5 +16,5 @@ Voici la [liste](workshops.md) des journées d'études à venir.
 
 ## Semaine intensive de cours PSL
 
-[en]: https://github.com/ais-initiative/ais-initiative.github.io/blob/master/assets/france-flag.svg "Britain"
+[en]: assets/france-flag.svg "Britain"
 
