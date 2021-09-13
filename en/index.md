@@ -6,7 +6,7 @@ title: "AIS intiative"
 ## Introduction
 
 ## Workshops
-[list](workshops.md)
+Here is a [list](workshops.md) of our upcoming workshops.
 
 ## Chaire Abeona
 
