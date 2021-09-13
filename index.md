@@ -1,7 +1,7 @@
 ---
 title: "Intiative AIS"
 ---
-[English](en/index.md)
+@icn-camera [English](en/index.md)
 
 ## Présentation
 
