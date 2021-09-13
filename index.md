@@ -1,7 +1,7 @@
 ## Présentation
 
 ## Journées d'études
-[Lien] (https://github.com/ais-initiative/ais-initiative.github.io/blob/master/workshops.md)
+[documentation](workshops.md)
 
 ## Chaire Abeona
 
