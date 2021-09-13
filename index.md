@@ -16,5 +16,5 @@ Voici la [liste](workshops.md) des journées d'études à venir.
 
 ## Semaine intensive de cours PSL
 
-[en]: assets/france.png "Britain"
+[en]: assets/uk.png "Britain"
 
