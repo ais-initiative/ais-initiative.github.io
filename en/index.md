@@ -15,4 +15,4 @@ Here is a [list](workshops.md) of our upcoming workshops.
 ## PSL week
 
 
-[fr]: assets/uk.png "Britain"
+[fr]: ../assets/france.png "France"
