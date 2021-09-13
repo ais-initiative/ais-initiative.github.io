@@ -1,7 +1,7 @@
 ## Présentation
 
 ## Journées d'études
-[documentation](workshops.md)
+[liste](workshops.md)
 
 ## Chaire Abeona
 
