@@ -1,6 +1,7 @@
 ---
 title: "Intiative AIS"
 ---
+![fa-crown](assets/france-flag.svg)
 [English](en/index.md)
 
 ## Présentation
