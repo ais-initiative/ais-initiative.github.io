@@ -19,6 +19,8 @@ Trois journées d'études ont été organisées entre mars et juillet 2021. La p
 
 ## Chaire Abeona
 
+jnj
+
 ## Personnes
 
 ## Semaine intensive de cours PSL
