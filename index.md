@@ -6,14 +6,14 @@ title: "Intiative AIS"
 
 ## Présentation
 
-L'Initiative "Intelligence Artificielle et Société" vise à regrouper différentes activités étudiant l'impact de l'Intelligence artificielle sur la société. Les actions visées concernent aussi bien l'enseignement que la recherche. 
+L'Initiative "Intelligence Artificielle et Société" regroupe différentes actions observant l'impact de l'Intelligence artificielle sur la société. L'approche est résolument pluridisciplinaires, mêlant notamment spécialistes des SHS et d'intelligence artificielle.  
 
 ## Journées d'études
 
-Trois journées d'études ont été organisées entre mars et juillet 2021. La première journée était une réunion informelle permetant aux participants d'échanger sur lur parcours et leurs atentes vis-à-vis du groupe. Dexu demi-journées thématiques ont ensuite été organisées, autour :
+Trois journées d'études ont été organisées entre mars et juillet 2021. La première journée était une réunion informelle permetant aux participants d'échanger sur lur parcours et leurs atentes vis-à-vis du groupe. Deux demi-journées thématiques ont depuis été organisées, sur :
 
-* de la [prise de décision](decision.md) automatisée 
-* des [modèles de langages](modeles.md). 
+* la [prise de décision](decision.md) automatisée 
+* les [modèles de langages](modeles.md). 
 
 <!-- Voici la [liste](workshops.md) des journées d'études à venir. -->
 
