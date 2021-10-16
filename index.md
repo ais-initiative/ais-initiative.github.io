@@ -17,11 +17,13 @@ Trois journées d'études ont été organisées entre mars et juillet 2021. La p
 
 <!-- Voici la [liste](workshops.md) des journées d'études à venir. -->
 
-## Chaire Abeona
+## Chaire Abeona-ENS_Obvia
 
-jnj
+Cette chaire permet à un(e) professeur(e) invité(e) de développer, pendant une année, des travaux sur l’intelligence artificielle (IA) et la justice sociale et d’interagir avec les chercheur·e·s des écosystèmes parisien et québécois dans les secteurs de l’IA, des sciences humaines et sociales et de la santé, qui donneront lieu à des séries de séminaires et d’événements publics.
 
 ## Personnes
+
+L'initaitve Intelligence Artificielle et société est coordonnée par Aïda Elamrani et Thierry Poibeau. 
 
 ## Semaine intensive de cours PSL
 
