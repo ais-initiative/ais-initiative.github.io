@@ -11,11 +11,11 @@ La prise de décision automatisée est une décision prise à l’égard par le 
 
 Cette question a été abordée ors de la journée du groupe "Ethique et Intelligence Artificielle" organisée en ligne le mercredi 12 mai 2021. Le programme était le suivant :
 
-* Anita Burgun, AP-HP, Université de Paris, "Décision médicale : concepts et réalités"
+* Anita Burgun, AP-HP, Université de Paris, "[Décision médicale : concepts et réalités]()"
 * Jérôme Lang, Dauphine, PSL, "Décision collective : de l'éthique à l'axiomatique"
 * Thierry Kirat, Dauphine, PSL, "Justice prédictive ou legal analytics ? Modèles prédictifs et jurisprudence chiffrée, une diversité d'applications"
 * Virginie Do, Dauphine, PSL, "Equité en Machine Learning"
-* Sophie Bavard, ENS, PSL, "Prise de décision et apprentissage par renforcement chez l'humain"
+* Sophie Bavard, ENS, PSL, "[Prise de décision et apprentissage par renforcement chez l'humain](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-bavard.pdf)"
 
 La réunion a eu lieu en ligne, sur Zoom. 
 
