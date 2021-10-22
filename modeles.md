@@ -26,7 +26,7 @@ La prise de décision automatisée est une décision prise à l’égard par le 
 
 Cette question a été abordée ors de la journée du groupe "Ethique et Intelligence Artificielle" organisée en ligne le mercredi 12 mai 2021. Le programme était le suivant :
 
-* Benoît Sagot (INRIA) : Les modèles de langue neuronaux : biais de représentativité et de représentation
+* Benoît Sagot (INRIA) : Les modèles de langue neuronaux : biais de représentativité et de représentation  (la présentation sera mise en ligne dès sa réception)
 * Karine Gentelet (UQO) : Le numérique (et l'IA): un outil pertinent dans les stratégies politique/identitaire des Peuples autochtones du Canada
 * Daniel Andler (IJN, IUF) : Qui parle ?
 
