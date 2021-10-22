@@ -14,7 +14,7 @@ Cette question a été abordée ors de la journée du groupe "Ethique et Intelli
 * Anita Burgun, AP-HP, Université de Paris, "Décision médicale : concepts et réalités" (la présentation sera mise en ligne dès sa réception)
 * Jérôme Lang, Dauphine, PSL, "[Décision collective : de l'éthique à l'axiomatique](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-lang.pdf)"
 * Thierry Kirat, Dauphine, PSL, "[Justice prédictive ou legal analytics ? Modèles prédictifs et jurisprudence chiffrée, une diversité d'applications](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-kirat.pdf)"
-* Virginie Do, Dauphine, PSL, "[Equité en Machine Learning]((https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-do.pdf))"
+* Virginie Do, Dauphine, PSL, "[Equité en Machine Learning](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-do.pdf)"
 * Sophie Bavard, ENS, PSL, "[Prise de décision et apprentissage par renforcement chez l'humain](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-bavard.pdf)"
 
 La réunion a eu lieu en ligne, sur Zoom. 
