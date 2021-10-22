@@ -6,7 +6,7 @@ title: "Intiative AIS"
 
 ## Présentation
 
-L'Initiative "Intelligence Artificielle et Société" regroupe différentes actions observant l'impact de l'Intelligence artificielle sur la société. L'approche est résolument pluridisciplinaires, mêlant notamment spécialistes des SHS et d'intelligence artificielle.  
+L'Initiative "Intelligence Artificielle et Société" regroupe différentes actions visant à observer et analyser l'impact de l'Intelligence artificielle sur la société. L'approche est résolument pluridisciplinaires, mêlant notamment spécialistes de sciences humaines et sociaales et d'intelligence artificielle. Les différentes actions sont menées en parallèle et impliquent différentes personnes, en fonction des intérêts et des compétences de chacun.  
 
 ## Journées d'études
 
