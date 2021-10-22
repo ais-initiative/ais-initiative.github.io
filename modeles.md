@@ -15,8 +15,8 @@ Ces modèles, aujourd'hui omniprésent en traitement des langues, posent de nomb
 Les questions liées aux modèles de langage ont été abordées lors de la journée du groupe "Ethique et Intelligence Artificielle" organisée en ligne le mercredi 1er juillet 2021. Le programme était le suivant :
 
 * Benoît Sagot (INRIA) : Les modèles de langue neuronaux : biais de représentativité et de représentation  (la présentation sera mise en ligne dès sa réception)
-* Karine Gentelet (UQO) : [Le numérique (et l'IA): un outil pertinent dans les stratégies politique/identitaire des Peuples autochtones du Canada](gentelet-modeles.pdf)
-* Daniel Andler (IJN, IUF) : [Qui parle ?](andler-gpt3.pdf)
+* Karine Gentelet (UQO) : [Le numérique (et l'IA): un outil pertinent dans les stratégies politique/identitaire des Peuples autochtones du Canada](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/gentelet-modeles.pdf)
+* Daniel Andler (IJN, IUF) : [Qui parle ?](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/andler-gpt3.pdf)
 
 La réunion a eu lieu en ligne, sur Zoom. 
 
