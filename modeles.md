@@ -2,7 +2,7 @@
 ---
 # Journée d'étude sur les "modèles de langage"
 ---
-![en][en] [English](en/modeles.md)
+[English](en/modeles.md)
 
 
 ## Présentation
@@ -11,6 +11,7 @@ Pour reprendre la [définition de Wikipedia](https://fr.wikipedia.org/wiki/Mod%C
 
 Ces modèles, aujourd'hui omniprésent en traitement des langues, posent de nombreux problèmes : ils incluent de nombreux biais (biais de représentation liés au  genre, à l'âge ou à l'origine par exemple), ils nécessitent de grandes masses de données et ne sont donc disponibles qaue pour quelques langues. Enfin, ils sont très lourds à entraîner et ont donc un coût environnemental très important.  
 
+##Programme
 
 Les questions liées aux modèles de langage ont été abordées lors de la journée du groupe "Ethique et Intelligence Artificielle" organisée en ligne le mercredi 1er juillet 2021. Le programme était le suivant :
 
@@ -19,6 +20,8 @@ Les questions liées aux modèles de langage ont été abordées lors de la jour
 * Daniel Andler (IJN, IUF) : [Qui parle ?](https://github.com/ais-initiative/ais-initiative.github.io/blob/master/andler-gpt3.pdf)
 
 La réunion a eu lieu en ligne, sur Zoom. 
+
+### Références annexes
 
 Notons, sur les mêmes questions, la [réflexion](https://hai.stanford.edu/news/reflections-foundation-models) menée au [Human Centered Artificial Intelligence Centre](https://hai.stanford.edu/) de Stanford, qui a produit un [rapport](https://arxiv.org/abs/2108.07258) et a organisé un [workshop](https://crfm.stanford.edu/workshop.html) dédié à ces questions. Le rapport contient une bonne synthèse des questions soulevées. 
 
