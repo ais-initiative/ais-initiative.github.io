@@ -25,6 +25,7 @@ La réunion a eu lieu en ligne, sur Zoom.
 
 Notons, sur les mêmes questions, la [réflexion](https://hai.stanford.edu/news/reflections-foundation-models) menée au [Human Centered Artificial Intelligence Centre](https://hai.stanford.edu/) de Stanford, qui a produit un [rapport](https://arxiv.org/abs/2108.07258) et a organisé un [workshop](https://crfm.stanford.edu/workshop.html) dédié à ces questions. Le rapport contient une bonne synthèse des questions soulevées. 
 
-Voir aussi, à titre d'introduction, l'artticle de Thierry Poibeau paru dans TheConversation : [Quand l’IA prend la parole : des prouesses aux dangers
-](https://theconversation.com/quand-lia-prend-la-parole-des-prouesses-aux-dangers-153495)
+Voir aussi, à titre d'introduction, plusieurs articles de Thierry Poibeau paru dans TheConversation : [Quand l’IA prend la parole : des prouesses aux dangers
+](https://theconversation.com/quand-lia-prend-la-parole-des-prouesses-aux-dangers-153495), [Peut-on détecter des fake news automatiquement ?](https://theconversation.com/peut-on-detecter-des-fake-news-automatiquement-160398) et [Emploi, sécurité, justice : d’où viennent les « biais » des IA et peut-on les éviter ?](https://theconversation.com/emploi-securite-justice-dou-viennent-les-biais-des-ia-et-peut-on-les-eviter-154579). 
+
 
