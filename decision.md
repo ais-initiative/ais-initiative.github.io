@@ -1,7 +1,8 @@
 
----
-title: "Journée d'étude sur la "prise de décision automatisée"
----
+
+# Journée d'étude sur la "prise de décision automatisée"
+
+
 [English](en/index.md)
 
 
