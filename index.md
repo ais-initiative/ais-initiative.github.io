@@ -6,9 +6,9 @@ title: "Intiative AIS"
 
 ## Présentation
 
-L'Initiative "Intelligence Artificielle et Société" regroupe différentes actions visant à observer et analyser l'impact de l'Intelligence artificielle sur la société. L'approche est résolument pluridisciplinaire, mêlant notamment spécialistes de sciences humaines et sociales (SHS) et d'intelligence artificielle. Les différentes actions sont menées en parallèle et impliquent différentes personnes, en fonction des intérêts et des compétences des uns et des autres.  
+L'initiative "Intelligence Artificielle et Société" regroupe différentes actions visant à observer et analyser l'impact de l'intelligence artificielle sur la société. L'approche est résolument pluridisciplinaire, mêlant notamment spécialistes de sciences humaines et sociales (SHS) et d'intelligence artificielle. Les différentes actions sont menées en parallèle et impliquent différentes personnes, en fonction des intérêts et des compétences des uns et des autres.  
 
-## Journées d'études
+## Journées d'étude
 
 Des journées d'étude permettent d'aborder des questions d'éthique liées au déploiement des techniques d'intelligence artificielle dans des cadres concrets, professionnels ou grand public. Ces journées d'étude ont à l'origine été organisées dans le cadre de l'Institut 3IA Prairie, mais sont aussi ouvertes aux spécialistes hors Prairie intéressés par ces questions. 
 
@@ -27,11 +27,11 @@ C'est actuellement [Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-ge
 
 ## Personnes
 
-L'initiative Intelligence Artificielle et société est coordonnée par Aïda Elamrani et Thierry Poibeau. 
+L'initiative Intelligence Artificielle et Société est coordonnée par Aïda Elamrani et Thierry Poibeau. 
 
-Aïda Elamrani est actuellement doctorante à l'Institut Jean Nicod et ingénieure de recherche au laboratoire Lattice. Ses recherches portent sur la philosophie de l'Intelligence artificielle. 
+Aïda Elamrani est actuellement doctorante à l'Institut Jean Nicod et ingénieure de recherche au laboratoire Lattice. Ses recherches portent sur la philosophie de l'intelligence artificielle. 
 
-Thierry Poibeau est directeur de recherche au CNRS. Il est membre du laboratoire Lattice et titulaire d'une chaire au sein de l'Institut 3IA Prairie. Ses recherches portent sur le traitement automatique du langage naturel, les humanités numériques et les questions liées au déploiement des techniques d'Intelligence artificielle (questions éthiques, influence sur le monde du travail, etc). 
+Thierry Poibeau est directeur de recherche au CNRS. Il est membre du laboratoire Lattice et titulaire d'une chaire au sein de l'Institut 3IA Prairie. Ses recherches portent sur le traitement automatique du langage naturel, les humanités numériques et les questions liées au déploiement des techniques d'intelligence artificielle (questions éthiques, influence sur le monde du travail, etc). 
 
 ## Semaine intensive de cours PSL
 
