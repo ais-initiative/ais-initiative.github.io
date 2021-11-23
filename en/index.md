@@ -1,8 +1,8 @@
 ---
 title: "AIS intiative"
 ---
-![fr][fr] [Français](../index.md)
-[fr]: ../assets/fr.png "France"
+[Français](../index.md)
+
 
 ## Introduction
 The AI & Society initiative involves several actions aiming at watching and analysing AI’s impact on society. Our approach is resolutely interdisciplinary, combining experts from fields as AI or SSH (Social Sciences and Humanities), among many others. Our different actions are conducted independently and involve different people depending on context, interests and skills.
