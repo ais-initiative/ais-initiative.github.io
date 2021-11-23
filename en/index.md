@@ -16,7 +16,7 @@ Three workshops have been organized between March and July 2021. The first one w
 
 Meetings will resume in January 2022.
 
-## Chaire Abeona
+## Abeona Chair
 This chair, created three years ago, invites a professor to conduct research on ethical questions raised by AI implementations. The chair is hosted by Ecole Normale Supérieure.
 
 The chair is currently held by [Karine Gentelet](https://observatoire-ia.ulaval.ca/en/karine-gentelet-new-holder-of-the-abeona-ens-obvia-chair-ai-and-social-justice/) (Université Laval, Canada) for her project “Social justice and artificial intelligence: citizen governance to reverse invisibility in algorithms and discrimination in their uses”. The chair was previously held by [Kate Crawford](https://www.ens.psl.eu/en/node/5013) (2019-2020).
