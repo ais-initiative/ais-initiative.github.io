@@ -12,7 +12,7 @@ The AISI workshops study the ethical challenges stemming from the deployment of 
 
 Three workshops have been organized between March and July 2021. The first one was an informal meeting, allowing participants to share their respective backgrounds and expectations from the group. Two thematic meetings have been organised since, about:
 * [Automated decision making](ws-decision)
-* Language models
+* [Language models](ws-language-models)
 
 Meetings will resume in January 2022.
 
