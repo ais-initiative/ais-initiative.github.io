@@ -1,7 +1,7 @@
 # Workshop on "Automated Decision-Making"
 
 
-[Français] (../decision.md)
+[Français](../decision.md)
 
 
 ## Presentation
