@@ -11,7 +11,7 @@ The AI & Society initiative involves several actions aiming at watching and anal
 The AISI workshops study the ethical challenges stemming from the deployment of AI systems within concrete, professional or public frameworks. Initially, these workshops have been organized within 3IA Institute PRAIRIE, but they are also open to specialists outside PRAIRIE who are interested in these questions.
 
 Three workshops have been organized between March and July 2021. The first one was an informal meeting, allowing participants to share their respective backgrounds and expectations from the group. Two thematic meetings have been organised since, about:
-* Automated decision making
+* [Automated decision making](ws-decision)
 * Language models
 
 Meetings will resume in January 2022.
