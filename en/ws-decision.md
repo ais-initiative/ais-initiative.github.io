@@ -12,10 +12,10 @@ This meeting will confront theory to practise, through presentations that will a
  
 Meeting of the "Ethics and Artificial Intelligence" group, organized on Wednesday May 12, 2021:
 
-* Anita Burgun, AP-HP, University of Paris, "Medical decision: concepts and realities" (the presentation will be put online as soon as it is received)
-* Jérôme Lang, Dauphine, PSL, "[Collective decision: from ethics to axioms] (https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai -lang.pdf) "
-* Thierry Kirat, Dauphine, PSL, "[Predictive justice or legal analytics? Predictive models and quantified case law, a variety of applications] (https://github.com/ais-initiative/ais-initiative.github.io/blob /master/decision-ai-kirat.pdf) "
-* Virginie Do, Dauphine, PSL, "[Equity in Machine Learning] (https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai-do.pdf)"
-* Sophie Bavard, ENS, PSL, "[Decision making and reinforcement learning in humans] (https://github.com/ais-initiative/ais-initiative.github.io/blob/master/decision-ai -bavard.pdf) "
+* Anita Burgun, AP-HP, University of Paris, "Medical decision: concepts and realities" (slides will be uploaded upon reception)
+* Jérôme Lang, Dauphine, PSL, "[Collective decision: from ethics to axioms](https://ais-initiative.github.io/decision-ai-lang.pdf) "
+* Thierry Kirat, Dauphine, PSL, "[Predictive justice or legal analytics? Predictive models and quantified case law, a variety of applications](https://ais-initiative.github.io/decision-ai-kirat.pdf) "
+* Virginie Do, Dauphine, PSL, "[Equity in Machine Learning](https://ais-initiative.github.io/decision-ai-do.pdf)"
+* Sophie Bavard, ENS, PSL, "[Decision making and reinforcement learning in humans](https://ais-initiative.github.io/decision-ai-bavard.pdf)"
 
 The meeting took place online, on Zoom.
