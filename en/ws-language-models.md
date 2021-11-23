@@ -13,7 +13,7 @@ These models, now ubiquitous in Natural Language Processing, pose several proble
 Meeting of the "Ethics and Artificial Intelligence" group organized online on Wednesday July 1, 2021:
 
 * Benoît Sagot (INRIA): Neural language models: representativeness and representation bias (the presentation will be put online as soon as it is received)
-* Karine Gentelet (UQO): [Digital (and AI): a relevant tool in the political / identity strategies of Indigenous Peoples of Canada] (https://ais-initiative.github.io/gentelet-modeles.pdf )
-* Daniel Andler (IJN, IUF): [Who speaks?] (Https://ais-initiative.github.io/andler-gpt3.pdf)
+* Karine Gentelet (UQO): [Digital (and AI): a relevant tool in the political / identity strategies of Indigenous Peoples of Canada](https://ais-initiative.github.io/gentelet-modeles.pdf )
+* Daniel Andler (IJN, IUF): [Who speaks?](https://ais-initiative.github.io/andler-gpt3.pdf)
 
 The meeting took place online, on Zoom.
