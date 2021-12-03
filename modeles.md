@@ -1,7 +1,7 @@
+---
+title: "Journée d'étude sur les "modèles de langage""
+---
 
----
-# Journée d'étude sur les "modèles de langage"
----
 [English](en/ws-language-models)
 
 
