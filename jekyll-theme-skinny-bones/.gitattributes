@@ -1,5 +1,10 @@
-fonts/* linguist-vendored
-js/plugins/* linguist-vendored
-js/vendor/* linguist-vendored
-js/main.js linguist-vendored
-_sass/vendor/* linguist-vendored
+assets/fonts/*                  linguist-vendored
+assets/js/main.min.js           linguist-vendored
+assets/js/lunr/*                linguist-vendored
+assets/js/plugins/*             linguist-vendored
+assets/js/vendor/*              linguist-vendored
+_sass/minimal-mistakes/vendor/* linguist-vendored
+CHANGELOG.md                    text merge=union
+docs/_docs/18-history.md        text merge=union
+
+*.md                            text
