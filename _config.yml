@@ -1,2 +1,4 @@
 remote_theme:  mmistakes/minimal-mistakes
 title: Artificial Intelligence & Society Initiative
+plugins:
+  - jekyll-include-cache
