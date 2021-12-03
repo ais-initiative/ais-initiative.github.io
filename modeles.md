@@ -1,5 +1,5 @@
 ---
-title: "Journée d'étude sur les "modèles de langage""
+title: "Journée d'étude sur les modèles de langage"
 ---
 [English](en/ws-language-models)
 
