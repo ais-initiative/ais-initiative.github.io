@@ -1,8 +1,6 @@
-
-
-# Journée d'étude sur la "prise de décision automatisée"
-
-
+---
+title: "Journée d'étude sur les modèles de langage"
+---
 [English](en/ws-decision.md)
 
 
