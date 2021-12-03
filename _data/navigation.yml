@@ -1,0 +1,7 @@
+main:
+  - title: "Journée d'étude sur les modèles de langage"
+    url: /modeles/
+  - title: "Journée d’étude sur la prise de décision automatisée"
+    url: /decision/
+  - title: "Site in english"
+    url: /en/
