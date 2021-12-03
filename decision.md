@@ -1,5 +1,5 @@
 ---
-title: "Journée d'étude sur les modèles de langage"
+title: "Journée d'étude sur la prise de décision automatisée"
 ---
 [English](en/ws-decision.md)
 
