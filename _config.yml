@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fr"
+locale                   : "en_US"
 title: Artificial Intelligence & Society Initiative
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
