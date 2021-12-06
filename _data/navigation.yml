@@ -1,7 +1,12 @@
+# main links
 main:
-  - title: "Journée d'étude sur les modèles de langage"
-    url: /modeles/
-  - title: "Journée d’étude sur la prise de décision automatisée"
-    url: /decision/
-  - title: "Site in english"
-    url: /en/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
