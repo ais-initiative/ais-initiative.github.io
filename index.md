@@ -1,8 +1,5 @@
 ---
 title: "Intiative AIS"
-layout: home
-header:
-  image : /assets/images/banner-g02142efd8_1280.jpg
 ---
 [English](en)
 
