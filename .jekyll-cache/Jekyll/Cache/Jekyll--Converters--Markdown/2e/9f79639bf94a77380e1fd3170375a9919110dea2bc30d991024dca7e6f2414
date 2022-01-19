@@ -1,0 +1,32 @@
+I"�<h2 id="présentation">Présentation</h2>
+
+<p>Pour reprendre la <a href="https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_langage">définition de Wikipedia</a> : “En traitement automatique des langues, un modèle de langage est un modèle statistique qui modélise la distribution de séquences de mots, et plus généralement de séquences de symboles discrets (lettres, phonèmes, mots), dans une langue naturelle. Un modèle de langage peut par exemple prédire le mot suivant une séquence de mots. BERT et GPT-3 sont des modèles de langage”.</p>
+
+<p>Ces modèles, aujourd’hui omniprésents en traitement automatisé du langage, posent de nombreux problèmes : ils incluent de nombreux biais (biais de représentation liés au  genre, à l’âge ou à l’origine par exemple), ils nécessitent de grandes masses de données et ne sont donc disponibles que pour quelques langues. Enfin, ils sont très lourds à entraîner et ont donc un coût environnemental très important.</p>
+
+<h2 id="programme">Programme</h2>
+
+<p>Les questions liées aux modèles de langage ont été abordées lors de la journée du groupe “Ethique et Intelligence Artificielle” organisée en ligne le mercredi 1er juillet 2021. Le programme était le suivant :</p>
+
+<ul>
+  <li>Benoît Sagot (INRIA) : Les modèles de langue neuronaux : biais de représentativité et de représentation  (la présentation sera mise en ligne dès sa réception)</li>
+  <li>Karine Gentelet (UQO) : <a href="https://ais-initiative.github.io/gentelet-modeles.pdf">Le numérique (et l’IA): un outil pertinent dans les stratégies politique/identitaire des Peuples autochtones du Canada</a></li>
+  <li>Daniel Andler (IJN, IUF) : <a href="https://ais-initiative.github.io/andler-gpt3.pdf">Qui parle ?</a></li>
+</ul>
+
+<p>La réunion a eu lieu en ligne, sur Zoom.</p>
+
+<h3 id="références-annexes">Références annexes</h3>
+
+<p>Notons, sur les mêmes questions, la <a href="https://hai.stanford.edu/news/reflections-foundation-models">réflexion</a> menée au <a href="https://hai.stanford.edu/">Human Centered Artificial Intelligence Centre</a> de Stanford, qui a produit un <a href="https://arxiv.org/abs/2108.07258">rapport</a> et a organisé un <a href="https://crfm.stanford.edu/workshop.html">workshop</a> dédié à ces questions. Le rapport contient une bonne synthèse des questions soulevées.</p>
+
+<p>Voir aussi, à titre d’introduction, plusieurs articles de Thierry Poibeau paru dans TheConversation :</p>
+<ul>
+  <li><a href="https://theconversation.com/quand-lia-prend-la-parole-des-prouesses-aux-dangers-153495">Quand l’IA prend la parole : des prouesses aux dangers</a>,</li>
+  <li><a href="https://theconversation.com/peut-on-detecter-des-fake-news-automatiquement-160398">Peut-on détecter des fake news automatiquement ?</a></li>
+  <li>et <a href="https://theconversation.com/emploi-securite-justice-dou-viennent-les-biais-des-ia-et-peut-on-les-eviter-154579">Emploi, sécurité, justice : d’où viennent les « biais » des IA et peut-on les éviter ?</a>.</li>
+</ul>
+
+<p><a href="evenements" class="button special icon fa-arrow-left">Retour aux évènements</a>
+<a href="#" class="button special icon fa-arrow-up">Retour en haut de page</a></p>
+:ET
