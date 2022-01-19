@@ -1,39 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# site settings
+title: IA & Société
+subtitle: Initiative
+description: "Initiative interdisciplinaire visant à décrypter l'impact de l'IA sur la société."
+title-en: AI & Society
+subtitle-en: Initiative
+description-en: "Interdisciplinary initiative aimed at decyphering AI's impact on society."
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+email: youremailaddress@gmail.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 
-#theme                  : "minimal-mistakes-jekyll"
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
 
-#remote_theme           : "mmistakes/minimal-mistakes"
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub:
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter: https://twitter.com/ais-initiative
+  Facebook:
+  Slack:
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-remote-theme
+# build settings
+markdown: kramdown
+remote-theme: andrewbanchich/forty-jekyll-theme
+sass:
+  style: compressed
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#plugins:
-#  - jekyll-include-cache
-#minimal_mistakes_skin: "air"
-
-theme: jekyll-theme-cayman
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md

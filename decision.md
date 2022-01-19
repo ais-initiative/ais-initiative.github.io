@@ -1,7 +1,13 @@
 ---
+layout: post
+permalink: 2021-decision-fr
 title: "Journée d'étude sur la prise de décision automatisée"
+
+nav-menu: false
+
+lang: fr
+lang-ref: ev-decision
 ---
-[English](en/ws-decision.md)
 
 
 ## Présentation
@@ -10,7 +16,7 @@ La prise de décision consiste à choisir une solution parmi un ensemble d’alt
 Cette rencontre permettra de confronter la théorie à la pratique, à travers des exposés qui aborderont la prise de décision sous différentes perspectives (informatique, médecine, droit, sciences cognitives) et seront suivis d’échanges interdisciplinaires.
 
 ## Programme
- 
+
 Journée du groupe "Ethique et Intelligence Artificielle", organisée le mercredi 12 mai 2021 :
 
 * Anita Burgun, AP-HP, Université de Paris, "Décision médicale : concepts et réalités" (la présentation sera mise en ligne dès sa réception)
@@ -19,5 +25,7 @@ Journée du groupe "Ethique et Intelligence Artificielle", organisée le mercred
 * Virginie Do, Dauphine, PSL, "[Equité en Machine Learning](https://ais-initiative.github.io/decision-ai-do.pdf)"
 * Sophie Bavard, ENS, PSL, "[Prise de décision et apprentissage par renforcement chez l'humain](https://ais-initiative.github.io/decision-ai-bavard.pdf)"
 
-La réunion a eu lieu en ligne, sur Zoom. 
+La réunion a eu lieu en ligne, sur Zoom.
 
+<a href="evenements.html" class="button special icon fa-arrow-left">Retour aux évènements</a>
+<a href="#" class="button special icon fa-arrow-up">Retour en haut de page</a>

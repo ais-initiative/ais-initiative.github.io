@@ -1,7 +1,13 @@
 ---
+layout: post
 title: "Journée d'étude sur les modèles de langage"
+permalink: 2021-modeles-fr
+
+nav-menu: false
+
+lang: fr
+lang-ref: ev-modeles
 ---
-[English](en/ws-language-models)
 
 
 ## Présentation
@@ -18,11 +24,16 @@ Les questions liées aux modèles de langage ont été abordées lors de la jour
 * Karine Gentelet (UQO) : [Le numérique (et l'IA): un outil pertinent dans les stratégies politique/identitaire des Peuples autochtones du Canada](https://ais-initiative.github.io/gentelet-modeles.pdf)
 * Daniel Andler (IJN, IUF) : [Qui parle ?](https://ais-initiative.github.io/andler-gpt3.pdf)
 
-La réunion a eu lieu en ligne, sur Zoom. 
+La réunion a eu lieu en ligne, sur Zoom.
 
 ### Références annexes
 
-Notons, sur les mêmes questions, la [réflexion](https://hai.stanford.edu/news/reflections-foundation-models) menée au [Human Centered Artificial Intelligence Centre](https://hai.stanford.edu/) de Stanford, qui a produit un [rapport](https://arxiv.org/abs/2108.07258) et a organisé un [workshop](https://crfm.stanford.edu/workshop.html) dédié à ces questions. Le rapport contient une bonne synthèse des questions soulevées. 
+Notons, sur les mêmes questions, la [réflexion](https://hai.stanford.edu/news/reflections-foundation-models) menée au [Human Centered Artificial Intelligence Centre](https://hai.stanford.edu/) de Stanford, qui a produit un [rapport](https://arxiv.org/abs/2108.07258) et a organisé un [workshop](https://crfm.stanford.edu/workshop.html) dédié à ces questions. Le rapport contient une bonne synthèse des questions soulevées.
 
-Voir aussi, à titre d'introduction, plusieurs articles de Thierry Poibeau paru dans TheConversation : [Quand l’IA prend la parole : des prouesses aux dangers
-](https://theconversation.com/quand-lia-prend-la-parole-des-prouesses-aux-dangers-153495), [Peut-on détecter des fake news automatiquement ?](https://theconversation.com/peut-on-detecter-des-fake-news-automatiquement-160398) et [Emploi, sécurité, justice : d’où viennent les « biais » des IA et peut-on les éviter ?](https://theconversation.com/emploi-securite-justice-dou-viennent-les-biais-des-ia-et-peut-on-les-eviter-154579). 
+Voir aussi, à titre d'introduction, plusieurs articles de Thierry Poibeau paru dans TheConversation :
+* [Quand l’IA prend la parole : des prouesses aux dangers](https://theconversation.com/quand-lia-prend-la-parole-des-prouesses-aux-dangers-153495),
+* [Peut-on détecter des fake news automatiquement ?](https://theconversation.com/peut-on-detecter-des-fake-news-automatiquement-160398)
+* et [Emploi, sécurité, justice : d’où viennent les « biais » des IA et peut-on les éviter ?](https://theconversation.com/emploi-securite-justice-dou-viennent-les-biais-des-ia-et-peut-on-les-eviter-154579).
+
+<a href="evenements" class="button special icon fa-arrow-left">Retour aux évènements</a>
+<a href="#" class="button special icon fa-arrow-up">Retour en haut de page</a>

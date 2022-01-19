@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head-en.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: none;">{{ site.description-en }}</p>
+                <ul class="actions">
+                    <li><a href="#one" class="button special">Learn more</a></li>
+		    <li><a href="{{ "" | absolute_url }}/" class="button">Français</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Acknowledgements</h2>
+                </header>
+                <p>{{ content }}</p>
+                <!--<ul class="actions">
+                    <li><a href="landing.html" class="button next">Get Started</a></li>
+                </ul> -->
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer-en.html %}
+
+</body>
+
+</html>
