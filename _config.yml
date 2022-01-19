@@ -7,8 +7,8 @@ subtitle-en: Initiative
 description-en: "Interdisciplinary initiative aimed at decyphering AI's impact on society."
 
 email: youremailaddress@gmail.com
-baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl:  /
+url: ais-initiative.github.io/
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
