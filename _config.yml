@@ -7,8 +7,8 @@ subtitle-en: Initiative
 description-en: "Interdisciplinary initiative aimed at decyphering AI's impact on society."
 
 email: youremailaddress@gmail.com
-baseurl:  /
-url: ais-initiative.github.io/
+baseurl:  
+url:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -30,7 +30,6 @@ socials:
 
 # build settings
 markdown: kramdown
-remote-theme: andrewbanchich/forty-jekyll-theme
 sass:
   style: compressed
 
