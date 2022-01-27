@@ -20,7 +20,7 @@
 	<ul class="links">
 
 
-		{% assign curr_home  = site.html_pages | where_exp: "item", "item.layout=='home' or item.layout=='home-en'" | where_exp: "item", "item.lang==curr_lang" %}
+		{% assign curr_home  = site.html_pages | where_exp: "item", "item.layout contains 'home'" | where_exp: "item", "item.lang==curr_lang" %}
 		{% for page in curr_home %}
 			<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		{% endfor %}
