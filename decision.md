@@ -19,7 +19,7 @@ Cette rencontre permettra de confronter la théorie à la pratique, à travers d
 
 Journée du groupe "Ethique et Intelligence Artificielle", organisée le mercredi 12 mai 2021 :
 
-* Anita Burgun, AP-HP, Université de Paris, "Décision médicale : concepts et réalités" (la présentation sera mise en ligne dès sa réception)
+* Anita Burgun, AP-HP, Université de Paris, "[Décision médicale : concepts et réalités](https://ais-initiative.github.io/decision-ai-burgun.pdf)"
 * Jérôme Lang, Dauphine, PSL, "[Décision collective : de l'éthique à l'axiomatique](https://ais-initiative.github.io/decision-ai-lang.pdf)"
 * Thierry Kirat, Dauphine, PSL, "[Justice prédictive ou legal analytics ? Modèles prédictifs et jurisprudence chiffrée, une diversité d'applications](https://ais-initiative.github.io/decision-ai-kirat.pdf)"
 * Virginie Do, Dauphine, PSL, "[Equité en Machine Learning](https://ais-initiative.github.io/decision-ai-do.pdf)"
