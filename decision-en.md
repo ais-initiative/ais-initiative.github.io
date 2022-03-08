@@ -26,7 +26,7 @@ Meeting of the “Ethics and Artificial Intelligence” group, organized on Wedn
 * Virginie Do, Dauphine, PSL, "[Equity in Machine Learning](https://ais-initiative.github.io/decision-ai-do.pdf)"
 * Sophie Bavard, ENS, PSL, "[Decision making and reinforcement learning in humans](https://ais-initiative.github.io/decision-ai-bavard.pdf)"
 
-La réunion a eu lieu en ligne, sur Zoom.
+The meeting was held online, on Zoom.
 
 <a href="events.html" class="button special icon fa-arrow-left">Return to events</a>
 <a href="#" class="button special icon fa-arrow-up">Back to top</a>
