@@ -54,3 +54,8 @@ Thierry Poibeau est directeur de recherche au CNRS, affecté au laboratoire LATT
 ## Référence 
 
 Frey, C.B. and Osborne, M.A., 2017. The future of employment: how susceptible are jobs to computerisation?. Technological Forecasting and Social Change, 114, pp. 254-280.
+
+
+
+<a href="evenements.html" class="button special icon fa-arrow-left">Retour aux évènements</a>
+<a href="#" class="button special icon fa-arrow-up">Retour en haut de page</a>
