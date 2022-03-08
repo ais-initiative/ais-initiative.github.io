@@ -20,7 +20,7 @@ This meeting confronted theory to practise, through presentations that addressed
 
 Meeting of the “Ethics and Artificial Intelligence” group, organized on Wednesday May 12, 2021:
 
-* Anita Burgun, AP-HP, Université de Paris, "Medical decision: concepts and realities" (slides will be uploaded upon reception)
+* Anita Burgun, AP-HP, Université de Paris, "[Medical decision: concepts and realities](https://ais-initiative.github.io/decision-ai-burgun.pdf)"
 * Jérôme Lang, Dauphine, PSL, "[Collective decision: from ethics to axioms](https://ais-initiative.github.io/decision-ai-lang.pdf)"
 * Thierry Kirat, Dauphine, PSL, "[Predictive justice or legal analytics? Predictive models and quantified case law, a variety of applications](https://ais-initiative.github.io/decision-ai-kirat.pdf)"
 * Virginie Do, Dauphine, PSL, "[Equity in Machine Learning](https://ais-initiative.github.io/decision-ai-do.pdf)"
