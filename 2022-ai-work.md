@@ -25,15 +25,20 @@ Salle de séminaire du département de sciences des données<br />
 
 
 **2-3pm**: **Antonio Casilli** (Télécom Paris / EHESS): “An end-to-end approach to the ethics of AI: the socio-economic dimensions of the production and deployment of automation” <br />
-*Abstract:* The contemporary debate on ethical AI embraces the interests and values ​​of producers of automatic solutions, mainly located in Northern countries as well as in some emerging countries. Taking into account the contributions of digital social sciences, this presentation proposes an "end-to-end approach" to the ethics of AI, and highlights a socially responsible and ecologically sustainable technology. Its aim is to expand the scope of current research to include the systematic study of the social, economic and environmental contexts of AI production. In particular, we propose to take into account the extraction of natural resources and the work of annotation and data enrichment necessary to train, validate and sometimes even imitate AI systems. An end-to-end ethical AI aims to promote the autonomy and uphold the dignity of invisible AI workers, mainly located in the Global South.
-
+*Abstract:* The contemporary debate on ethical AI embraces the interests and values ​​of producers of automatic solutions, mainly located in Northern countries as well as in some emerging countries. Taking into account the contributions of digital social sciences, this presentation proposes an "end-to-end approach" to the ethics of AI, and highlights a socially responsible and ecologically sustainable technology. Its aim is to expand the scope of current research to include the systematic study of the social, economic and environmental contexts of AI production. In particular, we propose to take into account the extraction of natural resources and the work of annotation and data enrichment necessary to train, validate and sometimes even imitate AI systems. An end-to-end ethical AI aims to promote the autonomy and uphold the dignity of invisible AI workers, mainly located in the Global South.<br />
+[Download Antonio Casilli's slides](2022-ai-work-Casilli.pdf)
 
 **3-3:45pm** : **Thierry Poibeau** (CNRS, ENS/PSL & Institut 3IA Prairie): “How machine translation has changed the translation profession”<br />
 *Abstract:* Machine translation (MT) tools have long remained highly imperfect, and attempts to use them in the workplace have been partial and experimental at best. The situation has changed in recent years, with the advent of neural methods that have made it possible to obtain translations of acceptable quality in different languages. This development has had a significant impact: some of the translations in the professional environment are now carried out automatically, and a new profession has even appeared: that of post-editor, which consists of marginally correcting the translations carried out automatically. We will examine the consequences of this state of affairs: consequences on the quality, costs and situation of professional translators. Is the influence of MT only negative for professional translators? Does it still open up new opportunities? We will try to answer these questions during the presentation, which will address the influence of AI on intellectual professions, which until recently were thought to be protected from this type of evolution.
+<br />
+[Download Thierry Poibeau's slides](2022-ai-work-Poibeau.pdf)
 
 **3:45-4pm** : **Break**
 
-**4-5pm** : **Discussion**: AI and work, how to ensure training, equal opportunities and diversity?, with **Tanya Perelmuter** (Abeona Foundation) and **Laure Bourgois** (entrepreneur, director of Codataschool)
+**4-5pm** : **Discussion**: AI and work, how to ensure training, equal opportunities and diversity?, with **Tanya Perelmuter** (Abeona Foundation) and **Laure Bourgois** (entrepreneur, director of Codataschool)<br />
+[Download Tanya Perelmuter's slides](2022-ai-work-Perelmuter.pdf)<br />
+[Download Laure Bourgois' slides](2022-ai-work-Bourgois.pdf)
+
 
 
 
