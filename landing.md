@@ -2,7 +2,8 @@
 title: Landing
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image-landing: assets/images/banner.jpg
+description-landing: 'Landing description'
+image-landing: assets/images/ai-ecology.jpg
 
 ---
 
@@ -81,6 +82,7 @@ image-landing: assets/images/banner.jpg
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
+
 	</div>
 </section>
 

@@ -105,7 +105,7 @@
 		}
 
 		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
+		&.style2 { &:after { background-color: _palette(bg); opacity:0.4; } }
 		&.style3 { &:after { background-color: _palette(accent3); } }
 		&.style4 { &:after { background-color: _palette(accent4); } }
 		&.style5 { &:after { background-color: _palette(accent5); } }
