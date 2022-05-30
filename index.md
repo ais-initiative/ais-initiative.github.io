@@ -11,4 +11,4 @@ lang: fr
 lang-ref: index
 ---
 
-Ce projet bénéficie notamment du soutien de l’Institut 3IA Prairie (chaire de Thierry Poibeau) et du projet Cyclades (IRN, International research network, financé par le CNRS).
+Ce projet bénéficie notamment du soutien de l'ENS-PSL, de l’Institut 3IA Prairie (chaire de Thierry Poibeau) et du projet Cyclades (IRN, International research network, financé par le CNRS).
