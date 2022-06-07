@@ -35,6 +35,6 @@ Our initiative aims for the advancement of knowledge in the field of AI ethics a
 
 The AISI is coordinated by Aïda Elamrani and Thierry Poibeau.
 
-Aïda Elamrani is currently a PhD student at Institut Jean Nicod and research engineer at the Lattice laboratory. Her research addresses philosophy of AI, especially machine consciousness and the comparison between humans and machines.
+[Aïda Elamrani](https://prairie-institute.fr/chairs/elamrani-aida/) is currently a PhD student at Institut Jean Nicod and research engineer at the Lattice laboratory. Her research addresses philosophy of AI, especially machine consciousness and the comparison between humans and machines.
 
-Thierry Poibeau is a research director at CNRS. He is a member of the Lattice laboratory and chair within 3IA Institute Prairie. His research addresses automated natural language processing, digital humanities and questions related to the deployment of artificial intelligence (ethical questions, impact on work, etc.).
+[Thierry Poibeau](https://prairie-institute.fr/chairs/poibeau-thierry/) is a research director at CNRS. He is a member of the Lattice laboratory and chair within 3IA Institute Prairie. His research addresses automated natural language processing, digital humanities and questions related to the deployment of artificial intelligence (ethical questions, impact on work, etc.).
