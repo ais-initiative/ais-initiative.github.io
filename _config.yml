@@ -7,7 +7,7 @@ subtitle-en: Initiative
 description-en: "Interdisciplinary initiative aimed at decyphering AI's impact on society."
 
 email: youremailaddress@gmail.com
-baseurl:  
+baseurl:
 url:
 
 # homepage tiles
@@ -24,7 +24,7 @@ socials:
   Google-Plus:
   Instagram:
   LinkedIn:
-  Twitter: https://twitter.com/ais-initiative
+  Twitter: https://twitter.com/AI_S_I
   Facebook:
   Slack:
 
