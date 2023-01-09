@@ -23,9 +23,12 @@ order: 0
 			<h2>Journées d'étude</h2>
 		</header>
 		<p>Des journées d'étude permettent d'aborder des questions d'éthique liées au déploiement des techniques d'intelligence artificielle dans des cadres concrets, professionnels ou grand public. Ces journées d'étude ont à l'origine été organisées dans le cadre de l'Institut 3IA Prairie, mais sont aussi ouvertes aux spécialistes hors Prairie intéressés par ces questions.</p>
-    <h3>Programme 2022</h3>
+		<h3>Programme 2023</h3>
 		<ul>
-		  <li>Créativité Assistée : à venir prochainement </li>
+			<li><a href="2023-langage">Après ChatGPT : où en est-on avec les modèles de langage ?</a></li>
+		</ul>
+		<h3>Programme 2022</h3>
+		<ul>
 		  <li><a href="2022-ecology-fr">Ecologie et IA</a></li>
 			<li><a href="2022-work-fr">L'impact de l'IA sur le travail</a></li>
 		</ul>
