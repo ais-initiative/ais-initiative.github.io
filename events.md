@@ -25,6 +25,7 @@ order: 0
 		<p>The AISI workshops study the ethical challenges stemming from the deployment of AI systems within concrete, professional or public frameworks. Initially, these workshops have been organized within 3IA Institute PRAIRIE, but they are also open to specialists outside PRAIRIE who are interested in these questions.</p>
 		<h3>2023 Program</h3>
 		<ul>
+			<li><a href="2023-ai-regulation">Debate on AI Regulations</a></li>
 			<li><a href="2023-language">After ChatGPT: where do we stand with language models?</a></li>
 		</ul>
 		<h3>2022 Program</h3>
