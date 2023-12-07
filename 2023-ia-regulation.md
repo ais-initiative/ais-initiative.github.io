@@ -16,8 +16,8 @@ Le développement extrêmement soutenu de l’Intelligence Artificielle ces dern
 ## Participants au débat
 Ces questions seront débattues le jeudi 14 décembre 2023 à 18h à l’Ecole normale supérieure (amphi Jaurès, 29 rue d’Ulm 75005 Paris, entrée par la rue Lhomond), par :
 <ul>
-<li> Raja Chatila (Président du comité national consultatif d’éthique du numérique)</li>
-<li> Camilla Penzo (PEReN, Pôle de’Expertise sur la Régulation du Numérique) </li>
+<li> Raja Chatila (Membre du comité national consultatif d’éthique du numérique)</li>
+<li> Camilla Penzo (Research Lead, PEReN, Pôle d’Expertise sur la Régulation du Numérique) </li>
 <li> Isabelle Ryl (Directrice de Prairie) </li>
 <li> Anastasia Stasenko (Research Lead à opsci.ai) </li>
 </ul>
